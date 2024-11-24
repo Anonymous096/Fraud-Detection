@@ -1,0 +1,101 @@
+Customer ID,Age,Gender,Location,Employment Status,Annual Income,Account Tenure
+CUST001,47,Male,New York,Self-Employed,80287,14
+CUST002,40,Male,Phoenix,Employed,133630,11
+CUST003,53,Male,New York,Unemployed,88505,12
+CUST004,30,Female,Houston,Employed,37228,12
+CUST005,52,Female,Chicago,Employed,130687,4
+CUST006,37,Female,Phoenix,Self-Employed,32415,11
+CUST007,60,Male,Houston,Self-Employed,55646,14
+CUST008,68,Male,Chicago,Self-Employed,67515,8
+CUST009,33,Female,New York,Employed,91490,2
+CUST010,41,Male,Houston,Employed,60074,7
+CUST011,38,Female,Los Angeles,Employed,129482,4
+CUST012,52,Male,Los Angeles,Self-Employed,72988,3
+CUST013,23,Male,Houston,Employed,88147,13
+CUST014,69,Female,Los Angeles,Unemployed,46515,1
+CUST015,30,Female,Houston,Unemployed,40375,14
+CUST016,63,Male,Chicago,Employed,57877,9
+CUST017,53,Male,Chicago,Self-Employed,146119,5
+CUST018,55,Male,Los Angeles,Unemployed,85460,10
+CUST019,23,Female,Phoenix,Self-Employed,72180,4
+CUST020,40,Male,Phoenix,Self-Employed,126324,4
+CUST021,34,Female,Los Angeles,Employed,53997,12
+CUST022,23,Female,Phoenix,Unemployed,36796,12
+CUST023,51,Female,New York,Self-Employed,144995,5
+CUST024,67,Female,Phoenix,Self-Employed,82539,4
+CUST025,45,Male,Chicago,Self-Employed,121803,2
+CUST026,63,Female,Los Angeles,Unemployed,118329,11
+CUST027,19,Female,Chicago,Unemployed,71833,12
+CUST028,21,Male,Phoenix,Employed,102667,11
+CUST029,44,Male,Los Angeles,Employed,35233,4
+CUST030,60,Female,Phoenix,Unemployed,103020,9
+CUST031,41,Male,Chicago,Employed,98801,14
+CUST032,24,Male,Chicago,Unemployed,135672,7
+CUST033,46,Male,Los Angeles,Self-Employed,143826,1
+CUST034,65,Female,Los Angeles,Self-Employed,72514,3
+CUST035,27,Female,Houston,Employed,116229,4
+CUST036,28,Female,Houston,Employed,79880,8
+CUST037,51,Male,Los Angeles,Employed,149448,6
+CUST038,18,Female,Houston,Employed,39424,3
+CUST039,42,Male,Phoenix,Self-Employed,76869,6
+CUST040,19,Male,Houston,Employed,89857,11
+CUST041,60,Female,Phoenix,Employed,49340,4
+CUST042,27,Male,Phoenix,Unemployed,149007,7
+CUST043,45,Male,Phoenix,Self-Employed,64191,5
+CUST044,37,Male,Los Angeles,Self-Employed,62404,12
+CUST045,62,Female,Houston,Employed,62407,4
+CUST046,65,Female,Houston,Employed,83344,14
+CUST047,53,Male,Houston,Unemployed,93555,6
+CUST048,26,Male,Houston,Self-Employed,125896,9
+CUST049,29,Female,Phoenix,Employed,57993,14
+CUST050,45,Male,Houston,Employed,90139,8
+CUST051,43,Female,Houston,Unemployed,76060,11
+CUST052,33,Male,Los Angeles,Employed,128604,12
+CUST053,37,Male,Phoenix,Unemployed,68113,12
+CUST054,68,Male,Houston,Self-Employed,60418,9
+CUST055,27,Female,Phoenix,Unemployed,63322,1
+CUST056,20,Female,Phoenix,Employed,44900,3
+CUST057,41,Male,New York,Employed,60718,14
+CUST058,58,Male,New York,Unemployed,43786,10
+CUST059,20,Female,New York,Employed,124195,10
+CUST060,67,Male,Phoenix,Self-Employed,70903,5
+CUST061,60,Female,Los Angeles,Unemployed,78269,10
+CUST062,30,Female,Phoenix,Employed,56459,7
+CUST063,31,Female,Los Angeles,Unemployed,81424,7
+CUST064,48,Male,Chicago,Employed,120490,4
+CUST065,29,Male,Chicago,Self-Employed,122831,2
+CUST066,24,Male,New York,Unemployed,113018,1
+CUST067,31,Male,Chicago,Unemployed,70774,9
+CUST068,58,Male,Houston,Unemployed,132659,9
+CUST069,35,Male,Houston,Unemployed,53383,5
+CUST070,47,Male,Los Angeles,Self-Employed,75335,13
+CUST071,21,Male,Chicago,Unemployed,77207,5
+CUST072,19,Male,Houston,Employed,70292,1
+CUST073,30,Female,Houston,Employed,145171,14
+CUST074,30,Female,Los Angeles,Self-Employed,98905,5
+CUST075,68,Female,Houston,Unemployed,40258,1
+CUST076,29,Male,Chicago,Unemployed,140132,11
+CUST077,31,Male,Los Angeles,Self-Employed,121088,9
+CUST078,20,Female,Phoenix,Employed,112592,4
+CUST079,52,Male,Chicago,Self-Employed,41701,14
+CUST080,68,Male,New York,Self-Employed,88266,8
+CUST081,68,Male,New York,Employed,49686,2
+CUST082,65,Female,Houston,Employed,38466,10
+CUST083,65,Female,Los Angeles,Self-Employed,33346,11
+CUST084,32,Male,Chicago,Employed,112746,12
+CUST085,43,Male,Phoenix,Employed,36499,5
+CUST086,33,Female,New York,Self-Employed,53410,3
+CUST087,53,Female,Los Angeles,Unemployed,135824,8
+CUST088,37,Female,Houston,Employed,140474,3
+CUST089,55,Male,Houston,Employed,71498,6
+CUST090,25,Male,Chicago,Self-Employed,30015,3
+CUST091,66,Female,Los Angeles,Unemployed,61857,5
+CUST092,61,Female,New York,Self-Employed,123419,7
+CUST093,30,Male,New York,Self-Employed,118681,6
+CUST094,47,Female,Houston,Self-Employed,120088,12
+CUST095,38,Male,Phoenix,Employed,34120,6
+CUST096,28,Male,Houston,Employed,37660,8
+CUST097,39,Female,New York,Employed,81032,10
+CUST098,26,Female,Chicago,Unemployed,41521,9
+CUST099,21,Male,Houston,Unemployed,91289,10
+CUST100,23,Female,New York,Self-Employed,83816,2
